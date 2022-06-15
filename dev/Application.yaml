@@ -9,7 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/AhmadEyad1/Kubernetes
-    targetRevision: Head
+    targetRevision: HEAD
     path: dev
 
   destination:
